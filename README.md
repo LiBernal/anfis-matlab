@@ -4,7 +4,7 @@
 
 Este proyecto implementa un **Sistema de Inferencia Neuro-Difusa Adaptativa (ANFIS)** en MATLAB para predecir variables relacionadas con la eficiencia energética de edificios, utilizando el dataset `ENB2012_data.csv`.
 
-El modelo utiliza **5 variables de entrada** y predice la **carga de enfriamiento** (columna 10 del dataset).
+El modelo utiliza **5 variables de entrada** y predice la **carga de enfriamiento**.
 
 ## Características
 
@@ -16,7 +16,7 @@ El modelo utiliza **5 variables de entrada** y predice la **carga de enfriamient
 
 ## Requisitos
 
-- **MATLAB R2018b o superior**
+- **MATLAB**
 - Toolboxes necesarios:
   - Fuzzy Logic Toolbox
   - Statistics and Machine Learning Toolbox
